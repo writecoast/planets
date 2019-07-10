@@ -1,1 +1,2 @@
 Jupiter has many moons.
+Features are spotty.
